@@ -1,14 +1,18 @@
 {
-  "name": "ipv4",
-  "version": "1.0.4",
-  "description": "ipv4",
+  "name": "get-ipv4",
+  "version": "1.0.0",
+  "description": "Detects the IPv4 Address.",
   "bin": {
     "ipv4": "./bin/ipv4"
   },
   "main": "index.js",
+  "author": {
+    "email": "pasit.sakorn@gmail.com",
+    "name": "JediThePro"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/ipv4.git"
+    "url": "git://github.com/JediThePro/ipv4.git"
   },
   "keywords": [
     "ip",
